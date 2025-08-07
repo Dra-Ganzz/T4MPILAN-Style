@@ -17,7 +17,7 @@ pkg update && pkg upgrade
 pkg install python
 pkg install git
 pkg install bash sh
-git clone https://github.com/Dra-ID/T4MPILAN-Style
+git clone https://github.com/Dra-Ganzz/T4MPILAN-Style
 cd T4MPILAN-Style
 git pull
 sh install.sh
