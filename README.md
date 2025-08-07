@@ -3,14 +3,16 @@
 
 # Comot?
 Kalo Buat Konten Ijin Dulu lah Bang jangan Gitu
-Kasian ma gw lah atau Tag gw di yt @vindradesign ya cuy
+Kasian ma gw lah atau Tag gw di yt @VindraGanzz ya cuy
 
 ```
 Kalo kalian Ingin Promosikan Tampilan Kalian Boleh Chat Di
-083809192307
+t.me/vindraganzz
 ```
 # package
 ```Bash
+cd $HOME
+rm T4MPILAN-Style
 pkg update && pkg upgrade 
 pkg install python
 pkg install python2
@@ -34,11 +36,11 @@ kalo Udah Jalanin sh install.sh Kalian Tinggal
 Ketik python style.py Aja Biar Kaga Ribet Lagi 
 
 # Download Token
-<li><code>Download<a href="https://khaddavi.net/s7bgc4XN1K">Token</a></code></li> 
+<li><code>Download<a href="https://sfl.gl/GE0N">Token</a></code></li> 
 
 # Subscribe 
 > Subscribe my channel
-> https://youtube.com/@vindradesign
+> https://youtube.com/@VindraGanzz
 
 # info script 
 SCRIPT 100% AMAN TAMPILAN KEREN
