@@ -15,8 +15,8 @@ cd $HOME
 rm T4MPILAN-Style
 pkg update && pkg upgrade 
 pkg install python
-pkg install python2
 pkg install git
+pkg install bash sh
 git clone https://github.com/Dra-ID/T4MPILAN-Style
 cd T4MPILAN-Style
 git pull
