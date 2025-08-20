@@ -20,7 +20,7 @@ pkg install bash sh
 git clone https://github.com/Dra-Ganzz/T4MPILAN-Style
 cd T4MPILAN-Style
 git pull
-sh install.sh
+bash install.sh
 ```
 # tutorial 
 
